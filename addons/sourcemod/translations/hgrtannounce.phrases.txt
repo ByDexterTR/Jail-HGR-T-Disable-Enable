@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"Hgrenablean"
+	{
+		"#format"	"{1:N}"	
+		"en"	"{orchid}{1} {default}enabled the use of the {green}HGR command to {yellow}the Terrorist team."
+		"tr"	"{orchid}{1}, {yellow}Terörist takıma {green}HGR komutunun kullanımını {default}aktifleştirdi."
+	}
+	"Hgrdisablean"
+	{
+		"#format"	"{1:N}"	
+		"en"	"{orchid}{1} {default}disabled the use of the {green}HGR command to {yellow}the Terrorist team."
+		"tr"	"{orchid}{1}, {yellow}Terörist takıma {green}HGR komutunun kullanımını {default}devre dışı bıraktı."
+	}
+}
